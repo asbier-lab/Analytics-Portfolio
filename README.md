@@ -36,3 +36,10 @@ Stakeholders wanted to answer:
 - Final report summarizing findings and recommendations for stakeholders
 
 ## Folder Structure
+
+Achievement4_Python/
+├── data/ # Raw and prepared datasets (not uploaded for privacy)
+├── scripts/ # Python scripts for data cleaning and analysis
+├── notebooks/ # Jupyter notebooks documenting analysis workflow
+├── outputs/ # Reports, visualizations, and charts
+└── README.md # Project-specific overview
