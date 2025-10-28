@@ -8,5 +8,6 @@ This folder contains all finalized deliverables prepared for stakeholders or cli
 - Cleaned datasets or simplified output tables (if applicable)
 
 ## Purpose
-This folder is organized so that a client can view the results **without needing to see the analytical or processing steps**.
+This folder is organized so that a client can view the results 
+**without needing to see the analytical or processing steps**.
 
